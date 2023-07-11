@@ -12,3 +12,8 @@ tesla
 landrover
 rangerover
 ferari
+
+royal enfield
+ktm
+hero
+honda
