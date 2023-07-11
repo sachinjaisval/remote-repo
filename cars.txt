@@ -7,3 +7,8 @@ ford
 volkswagon
 skoda
 hyundai
+suzuki
+tesla
+landrover
+rangerover
+ferari
