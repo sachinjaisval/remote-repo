@@ -1,0 +1,8 @@
+telugu 
+hindi
+english
+german
+french
+tamil
+kanada
+
